@@ -1,6 +1,2 @@
 # Imersao Dev 2022
- ## Desenvolvimento Web 
-
- ## HTML
- ## CSS
- ## JavaScript 
+ ## Aula 01 - Variáveis, Operações e Média
