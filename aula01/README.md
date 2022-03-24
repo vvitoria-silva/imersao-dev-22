@@ -1,6 +1,6 @@
-#Imersao Dev 2022
- ##Desenvolvimento Web 
+# Imersao Dev 2022
+ ## Desenvolvimento Web 
 
- ##HTML
- ##CSS
- ##JavaScript 
+ ## HTML
+ ## CSS
+ ## JavaScript 
